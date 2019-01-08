@@ -2,7 +2,7 @@
 
 $host = "db4free.net";
 $username = "raemond152000";
-$password = "babybaboonking";
+$password = "babybaboonking123";
 $dbname = "todo_app_db";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
